@@ -1,12 +1,15 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Edoardo
 
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTYwM3Z4cGdwMm93dTNudXk5ZGFwMGNibzlqaHAzb3J0NHk1NjgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JA8X1yjBnTaZW/giphy.gif" />
+<img src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" />
 </div>
 
+<br>
+<br>
+
 I am a Full Stack Developer from Italy based in Germany.
-
-
+<br>
+<br>
 - 🔭 I’m currently working on creating a Social Media App with TypeScript and React.
 - 🌱 I’m currently learning C#, TypeScript and TailWind. 
 - 👯 I’m looking to collaborate to Open Source Projects mainly based on the following languages and frameworks: Python, C#, JavaScript, Django REST, Flask, React, CSS, HTML.
@@ -17,6 +20,8 @@ I am a Full Stack Developer from Italy based in Germany.
   </a>
 </div>
 
+<br>
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 #### Frontend
