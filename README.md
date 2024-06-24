@@ -12,7 +12,7 @@ I am a Full Stack Developer from Italy based in Germany.
 <br>
 - 🔭 I’m currently working on creating a Social Media App with TypeScript and React.
 - 🌱 I’m currently learning C#, TypeScript and TailWind. 
-- 👯 I’m looking to collaborate to Open Source Projects mainly based on the following languages and frameworks: Python, C#, JavaScript, Django REST, Flask, React, CSS, HTML.
+- 👯 I’m looking to collaborate to Open Source Projects mainly based on the following languages and frameworks: Python, C#, JavaScript, TypeScript Django REST, Flask, React, CSS, HTML.
 - :point_down:How to reach me:mailbox: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/angeliedoardo/">
