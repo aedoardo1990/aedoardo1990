@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Edoardo
 
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmoyMjVxd2d1bjB1eHM5bGY4aDlpYWZjbzB0a3RsZGQ4cmppcGZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpLVqOg8xTY3EmoYF7/giphy.gif" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTYwM3Z4cGdwMm93dTNudXk5ZGFwMGNibzlqaHAzb3J0NHk1NjgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JA8X1yjBnTaZW/giphy.gif" />
 </div>
 
 I am a Full Stack Developer from Italy based in Germany.
