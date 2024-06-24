@@ -1,10 +1,11 @@
-## Hi, I am Edoardo Angeli 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Edoardo
 
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29uMjVoa2d0MG40ODdjY2kwZ2YycmRjNTk1NmVvcWcxZXdiYmwyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy based in Germany.
+I am a Full Stack Developer from Italy based in Germany.
 
 
 - 🔭 I’m currently working on creating a Social Media App with TypeScript and React.
