@@ -60,5 +60,6 @@ I am a Full Stack Developer from Italy based in Germany.
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-
+<br>
+<br>
 
