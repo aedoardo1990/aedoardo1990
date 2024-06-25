@@ -22,7 +22,7 @@ I am a Full Stack Developer from Italy based in Germany.
 <br>
 <br>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages & Tools I work with :
 #### Frontend
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
