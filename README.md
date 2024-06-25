@@ -1,24 +1,22 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Edoardo
 
+I am a Full Stack Developer from Italy based in Germany.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeliedoardo/)
+[![My Repos](https://img.shields.io/badge/My_Repos-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aedoardo1990?tab=repositories)
+
+<br>
+<br>
+
 <div id="header" align="center">
 <img src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" />
 </div>
 
 <br>
 <br>
-
-I am a Full Stack Developer from Italy based in Germany.
-<br>
-<br>
 - 🔭 I’m currently working on creating a Social Media App with TypeScript and React.
 - 🌱 I’m currently learning C#, TypeScript and TailWind. 
 - 👯 I’m looking to collaborate to Open Source Projects mainly based on the following languages and frameworks: Python, C#, JavaScript, TypeScript Django REST, Flask, React, CSS, HTML.
-- :point_down:How to reach me:mailbox: 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/angeliedoardo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 <br>
 <br>
