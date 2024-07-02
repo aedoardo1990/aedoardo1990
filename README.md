@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Edoardo
 
-I am a Full Stack Developer from Italy based in Germany. I am translator of Coding articles for [freeCodeCamp.org](https://www.freecodecamp.org/).
+I am a Full Stack Developer from Italy based in Germany.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeliedoardo/)
 [![My Repos](https://img.shields.io/badge/My_Repos-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aedoardo1990?tab=repositories)
@@ -18,6 +18,7 @@ I am a Full Stack Developer from Italy based in Germany. I am translator of Codi
 - 🔭 I’m currently working on creating a Social Media App with TypeScript and React.
 - 🌱 I’m currently learning C#, TypeScript and TailWind. 
 - 👯 I’m looking to collaborate to Open Source Projects mainly based on the following languages and frameworks: Python, C#, JavaScript, TypeScript Django REST, Flask, React, CSS, HTML.
+- 👨‍💻 I translate Coding articles for [freeCodeCamp.org](https://www.freecodecamp.org/).
 
 <br>
 <br>
