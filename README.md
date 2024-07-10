@@ -15,9 +15,9 @@ I am a Full Stack Developer from Italy based in Germany.
 <br>
 <br>
 
-- 🔭 I’m currently working on creating a Social Media App with TypeScript and React.
-- 🌱 I’m currently learning C#, TypeScript and TailWind. 
-- 👯 I’m looking to collaborate to Open Source Projects mainly based on the following languages and frameworks: Python, C#, JavaScript, TypeScript Django REST, Flask, React, CSS, HTML.
+- 🔭 I am working on creating a Social Media App with TypeScript and React.
+- 🌱 I am learning C#, TypeScript and TailWind. 
+- 👯 I am collaborating/and looking to collaborate to Open Source Projects based on the following technologies: Python, C#, JavaScript, TypeScript Django REST, Flask, React, CSS, HTML.
 - 👨‍💻 I translate Coding articles for [freeCodeCamp.org](https://www.freecodecamp.org/).
 
 <br>
